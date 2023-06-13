@@ -74,6 +74,3 @@ git checkout <первые 4 символа адреса commit(а)>
 ![Текст с описанием картинки](/1.png)
 
 <https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/#stk-2>
-
-
-[def]: 1.png
