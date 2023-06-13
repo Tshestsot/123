@@ -68,3 +68,7 @@ git checkout - команда для переключения между вет�
 > Пример по возвращению к commit :
 
 git checkout <первые 4 символа адреса commit(а)>
+
+# Команды для Markdown нашел у конкурентов, а хотелось бы на gb.ru :)
+
+<https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/#stk-2>
